@@ -1,0 +1,14 @@
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\bin\Debug\net8.0\estacionamentotest3.exe
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\bin\Debug\net8.0\estacionamentotest3.deps.json
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\bin\Debug\net8.0\estacionamentotest3.runtimeconfig.json
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\bin\Debug\net8.0\estacionamentotest3.dll
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\bin\Debug\net8.0\estacionamentotest3.pdb
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.AssemblyInfoInputs.cache
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.AssemblyInfo.cs
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.csproj.CoreCompileInputs.cache
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.dll
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\refint\estacionamentotest3.dll
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.pdb
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\estacionamentotest3.genruntimeconfig.cache
+C:\Users\redhe\source\repos\estacionamentotest3\estacionamentotest3\obj\Debug\net8.0\ref\estacionamentotest3.dll
